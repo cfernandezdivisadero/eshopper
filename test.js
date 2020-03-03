@@ -9,3 +9,6 @@ jQuery('.add-to-cart').on('click', function() {
         accionEcommerce: 'add'
     }, function(){}, [5]);
 });
+
+
+console.log('Funciona!!!');
